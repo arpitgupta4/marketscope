@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "MarketScope NSE Stock Tracker",
+  "short_name": "MarketScope",
+  "description": "Personal NSE stock tracker powered by Google Sheets.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1512",
+  "theme_color": "#123b30",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
